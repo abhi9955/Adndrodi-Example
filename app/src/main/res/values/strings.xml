@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaeProjectDemo</string>
+
+    <string name="already_have_an_account_login">Already have account</string>
+    <string name="signed">Sign</string>
+    <string name="confirm_password">Confirm Pasword</string>
+    <string name="password">Pasword</string>
+    <string name="email">Email</string>
+
+</resources>
